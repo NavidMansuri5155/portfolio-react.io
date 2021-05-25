@@ -2,6 +2,10 @@
 
 A flexible and responsive portfolio component for react
 
+## About
+
+I made it a portfolio. And have used dark mode and sun mode. I have only used the cycle UI. And this is also a short website response
+
 
 ## what is a Chakra UI
 

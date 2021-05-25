@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+    body{
+        position: absolute;
+    }
+    .Nav{
+        padding-left: 37px;
+        padding-top: 10px;
+    }
+    .cardTwo{
+        padding-top: 80px;
+    }
+    .cardTh{
+        padding-top: 80px;
+    }
+    
+  }
